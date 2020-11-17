@@ -1,10 +1,12 @@
-<h1> 🗣 Toaster de Mensagem 🗣 <h1>
+<h1> 🗣 Toaster Messenger 🗣 <h1>
 
 <div> 
-    <p> Toaster de mensagem envia uma notificação para o usuário, essa notificação pode ser enviada automática ao entrar no site/aplicativo ou ao ocorrer um evento onde o usuário fazera a interação com o mesmo.
-        <li> Desenvolvido em JavaScript Puro</li>
-        <li> Implementação para componentes em VUEJS </li>
+    <p> Message Toaster sends a notification to the user, this notification can be sent automatically when entering the website / application or when an event occurs where the user will interact with it.</p>
+    <p> this is very simple toaster messenger.
+        <li> Developer in Javascript with Jquery</li>
+        <li> Toaster implementation VueJS with Jquery </li>
     <br><br>
+    
 
 <img src="toaster.png"> 
 </div>
